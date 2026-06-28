@@ -1,4 +1,4 @@
-# 
+# Nouveau Bitdefender Total Security scripts pour Mac OS | Automatique Bitdefender Total Security scripts pour PC Windows. Avec surveillance réseau et support en ligne de commande — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
